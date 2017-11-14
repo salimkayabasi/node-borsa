@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/salimkayabasi/node-borsa/issues"
   },
-  "homepage": "https://github.com/salimkayabasi/node-borsa#readme"
+  "homepage": "https://github.com/salimkayabasi/node-borsa#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.4"
+  }
 }
